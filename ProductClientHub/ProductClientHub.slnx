@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ProductClientHub.API/ProductClientHub.API.csproj" Id="0e2929d7-28f3-43ca-9e61-6b48df9403e3" />
+  <Project Path="ProductClientHub.Communication/ProductClientHub.Communication.csproj" Id="f9b54464-d20e-4468-a120-713037bde877" />
+  <Project Path="ProductClientHub.Exceptions/ProductClientHub.Exceptions.csproj" Id="3d427612-a247-47ff-9dc7-19b75f50e073" />
+</Solution>
