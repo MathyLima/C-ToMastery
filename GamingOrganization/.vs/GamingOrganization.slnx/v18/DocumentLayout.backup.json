@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9063366E-72E8-45F8-A252-2854DD68B3B0}|Communication\\GammingOrganization.Communication.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\communication\\responses\\user\\responseshortuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9063366E-72E8-45F8-A252-2854DD68B3B0}|Communication\\GammingOrganization.Communication.csproj|solutionrelative:communication\\responses\\user\\responseshortuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9063366E-72E8-45F8-A252-2854DD68B3B0}|Communication\\GammingOrganization.Communication.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\communication\\requests\\user\\requestuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9063366E-72E8-45F8-A252-2854DD68B3B0}|Communication\\GammingOrganization.Communication.csproj|solutionrelative:communication\\requests\\user\\requestuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9063366E-72E8-45F8-A252-2854DD68B3B0}|Communication\\GammingOrganization.Communication.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\communication\\requests\\usertask\\requestusertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9063366E-72E8-45F8-A252-2854DD68B3B0}|Communication\\GammingOrganization.Communication.csproj|solutionrelative:communication\\requests\\usertask\\requestusertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\entities\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\entities\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\usecases\\usertasks\\sharedvalidator\\requesttaskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\usecases\\usertasks\\sharedvalidator\\requesttaskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\usecases\\users\\sharedvalidator\\requestuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\usecases\\users\\sharedvalidator\\requestuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\enums\\usertaskslevelenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\enums\\usertaskslevelenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9063366E-72E8-45F8-A252-2854DD68B3B0}|Communication\\GammingOrganization.Communication.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\communication\\responses\\user\\responsealluserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9063366E-72E8-45F8-A252-2854DD68B3B0}|Communication\\GammingOrganization.Communication.csproj|solutionrelative:communication\\responses\\user\\responsealluserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\usecases\\users\\getbyid\\getbyiduserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\usecases\\users\\getbyid\\getbyiduserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\usecases\\users\\getall\\getallusersusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\usecases\\users\\getall\\getallusersusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\usecases\\users\\delete\\deleteuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\usecases\\users\\delete\\deleteuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9063366E-72E8-45F8-A252-2854DD68B3B0}|Communication\\GammingOrganization.Communication.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\communication\\responses\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9063366E-72E8-45F8-A252-2854DD68B3B0}|Communication\\GammingOrganization.Communication.csproj|solutionrelative:communication\\responses\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9063366E-72E8-45F8-A252-2854DD68B3B0}|Communication\\GammingOrganization.Communication.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\communication\\responses\\user\\responseuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9063366E-72E8-45F8-A252-2854DD68B3B0}|Communication\\GammingOrganization.Communication.csproj|solutionrelative:communication\\responses\\user\\responseuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E31F58-2654-4B56-9F82-C2E078E99CAF}|GamingOrganization.Exceptions\\GamingOrganization.Exceptions.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.exceptions\\exceptionsbase\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E31F58-2654-4B56-9F82-C2E078E99CAF}|GamingOrganization.Exceptions\\GamingOrganization.Exceptions.csproj|solutionrelative:gamingorganization.exceptions\\exceptionsbase\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E31F58-2654-4B56-9F82-C2E078E99CAF}|GamingOrganization.Exceptions\\GamingOrganization.Exceptions.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.exceptions\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E31F58-2654-4B56-9F82-C2E078E99CAF}|GamingOrganization.Exceptions\\GamingOrganization.Exceptions.csproj|solutionrelative:gamingorganization.exceptions\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E31F58-2654-4B56-9F82-C2E078E99CAF}|GamingOrganization.Exceptions\\GamingOrganization.Exceptions.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.exceptions\\exceptionsbase\\gameorganizationexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E31F58-2654-4B56-9F82-C2E078E99CAF}|GamingOrganization.Exceptions\\GamingOrganization.Exceptions.csproj|solutionrelative:gamingorganization.exceptions\\exceptionsbase\\gameorganizationexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|c:\\users\\mathe\\onedrive\\documentos\\projetos_pessoais\\c#\\gamingorganization\\gamingorganization.api\\gamingorganization.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{769890D8-4F7F-052B-4051-11D2415DAF12}|GamingOrganization.API\\GamingOrganization.API.csproj|solutionrelative:gamingorganization.api\\gamingorganization.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestUserTask.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\Communication\\Requests\\UserTask\\RequestUserTask.cs",
+              "RelativeDocumentMoniker": "Communication\\Requests\\UserTask\\RequestUserTask.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\Communication\\Requests\\UserTask\\RequestUserTask.cs",
+              "RelativeToolTip": "Communication\\Requests\\UserTask\\RequestUserTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T00:28:53.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\UseCases\\Users\\SharedValidator\\RequestUserValidator.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\UseCases\\Users\\SharedValidator\\RequestUserValidator.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\UseCases\\Users\\SharedValidator\\RequestUserValidator.cs",
+              "RelativeToolTip": "GamingOrganization.API\\UseCases\\Users\\SharedValidator\\RequestUserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:15:19.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "GamingOrganization.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:28:10.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResponseShortUserJson.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\Communication\\Responses\\User\\ResponseShortUserJson.cs",
+              "RelativeDocumentMoniker": "Communication\\Responses\\User\\ResponseShortUserJson.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\Communication\\Responses\\User\\ResponseShortUserJson.cs",
+              "RelativeToolTip": "Communication\\Responses\\User\\ResponseShortUserJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:41:18.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestUserJson.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\Communication\\Requests\\User\\RequestUserJson.cs",
+              "RelativeDocumentMoniker": "Communication\\Requests\\User\\RequestUserJson.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\Communication\\Requests\\User\\RequestUserJson.cs",
+              "RelativeToolTip": "Communication\\Requests\\User\\RequestUserJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:30:40.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserTasksLevelEnum.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Enums\\UserTasksLevelEnum.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\Enums\\UserTasksLevelEnum.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Enums\\UserTasksLevelEnum.cs",
+              "RelativeToolTip": "GamingOrganization.API\\Enums\\UserTasksLevelEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T00:10:45.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserTask.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Entities\\UserTask.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\Entities\\UserTask.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Entities\\UserTask.cs",
+              "RelativeToolTip": "GamingOrganization.API\\Entities\\UserTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T00:05:49.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestTaskValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\UseCases\\UserTasks\\SharedValidator\\RequestTaskValidator.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\UseCases\\UserTasks\\SharedValidator\\RequestTaskValidator.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\UseCases\\UserTasks\\SharedValidator\\RequestTaskValidator.cs",
+              "RelativeToolTip": "GamingOrganization.API\\UseCases\\UserTasks\\SharedValidator\\RequestTaskValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T00:19:07.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Entities\\User.cs",
+              "RelativeToolTip": "GamingOrganization.API\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:46:26.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseAllUserJson.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\Communication\\Responses\\User\\ResponseAllUserJson.cs",
+              "RelativeDocumentMoniker": "Communication\\Responses\\User\\ResponseAllUserJson.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\Communication\\Responses\\User\\ResponseAllUserJson.cs",
+              "RelativeToolTip": "Communication\\Responses\\User\\ResponseAllUserJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:32:37.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "GamingOrganization.API\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T00:14:56.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetByIdUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\UseCases\\Users\\GetById\\GetByIdUserUseCase.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\UseCases\\Users\\GetById\\GetByIdUserUseCase.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\UseCases\\Users\\GetById\\GetByIdUserUseCase.cs",
+              "RelativeToolTip": "GamingOrganization.API\\UseCases\\Users\\GetById\\GetByIdUserUseCase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA6wA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:06:46.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllUsersUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\UseCases\\Users\\GetAll\\GetAllUsersUseCase.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\UseCases\\Users\\GetAll\\GetAllUsersUseCase.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\UseCases\\Users\\GetAll\\GetAllUsersUseCase.cs",
+              "RelativeToolTip": "GamingOrganization.API\\UseCases\\Users\\GetAll\\GetAllUsersUseCase.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:37:29.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\UseCases\\Users\\Delete\\DeleteUserUseCase.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\UseCases\\Users\\Delete\\DeleteUserUseCase.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\UseCases\\Users\\Delete\\DeleteUserUseCase.cs",
+              "RelativeToolTip": "GamingOrganization.API\\UseCases\\Users\\Delete\\DeleteUserUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T18:08:50.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResponseErrorMessagesJson.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "RelativeDocumentMoniker": "Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "RelativeToolTip": "Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:31:08.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "GamingOrganization.API\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA0wBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:46:56.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Entities\\EntityBase.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\Entities\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Entities\\EntityBase.cs",
+              "RelativeToolTip": "GamingOrganization.API\\Entities\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:45:48.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResponseUserJson.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\Communication\\Responses\\User\\ResponseUserJson.cs",
+              "RelativeDocumentMoniker": "Communication\\Responses\\User\\ResponseUserJson.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\Communication\\Responses\\User\\ResponseUserJson.cs",
+              "RelativeToolTip": "Communication\\Responses\\User\\ResponseUserJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:59:47.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.Exceptions\\ExceptionsBase\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.Exceptions\\ExceptionsBase\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.Exceptions\\ExceptionsBase\\NotFoundException.cs",
+              "RelativeToolTip": "GamingOrganization.Exceptions\\ExceptionsBase\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:13:02.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Program.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Program.cs",
+              "RelativeToolTip": "GamingOrganization.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:57:20.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "RelativeToolTip": "GamingOrganization.API\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:40:21.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorOnValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "RelativeToolTip": "GamingOrganization.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:23:22.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameOrganizationExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.Exceptions\\ExceptionsBase\\GameOrganizationExceptions.cs",
+              "RelativeDocumentMoniker": "GamingOrganization.Exceptions\\ExceptionsBase\\GameOrganizationExceptions.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.Exceptions\\ExceptionsBase\\GameOrganizationExceptions.cs",
+              "RelativeToolTip": "GamingOrganization.Exceptions\\ExceptionsBase\\GameOrganizationExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:23:49.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GamingOrganization.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T14:06:50.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GamingOrganization.API.csproj",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\GamingOrganization.API.csproj",
+              "RelativeDocumentMoniker": "GamingOrganization.API\\GamingOrganization.API.csproj",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos_Pessoais\\C#\\GamingOrganization\\GamingOrganization.API\\GamingOrganization.API.csproj",
+              "RelativeToolTip": "GamingOrganization.API\\GamingOrganization.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T13:35:39.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "GammingOrganization.Communication/1.0.0": {
+        "runtime": {
+          "GammingOrganization.Communication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GammingOrganization.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

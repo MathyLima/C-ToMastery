@@ -1,0 +1,11 @@
+C:\Users\mathe\OneDrive\Documentos\Projetos_Pessoais\C#\GamingOrganization\GamingOrganization.Exceptions\bin\Debug\net10.0\GamingOrganization.Exceptions.deps.json
+C:\Users\mathe\OneDrive\Documentos\Projetos_Pessoais\C#\GamingOrganization\GamingOrganization.Exceptions\bin\Debug\net10.0\GamingOrganization.Exceptions.dll
+C:\Users\mathe\OneDrive\Documentos\Projetos_Pessoais\C#\GamingOrganization\GamingOrganization.Exceptions\bin\Debug\net10.0\GamingOrganization.Exceptions.pdb
+C:\Users\mathe\OneDrive\Documentos\Projetos_Pessoais\C#\GamingOrganization\GamingOrganization.Exceptions\obj\Debug\net10.0\GamingOrganization.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\Projetos_Pessoais\C#\GamingOrganization\GamingOrganization.Exceptions\obj\Debug\net10.0\GamingOrganization.Exceptions.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\Projetos_Pessoais\C#\GamingOrganization\GamingOrganization.Exceptions\obj\Debug\net10.0\GamingOrganization.Exceptions.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\Projetos_Pessoais\C#\GamingOrganization\GamingOrganization.Exceptions\obj\Debug\net10.0\GamingOrganization.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\Projetos_Pessoais\C#\GamingOrganization\GamingOrganization.Exceptions\obj\Debug\net10.0\GamingOrganization.Exceptions.dll
+C:\Users\mathe\OneDrive\Documentos\Projetos_Pessoais\C#\GamingOrganization\GamingOrganization.Exceptions\obj\Debug\net10.0\refint\GamingOrganization.Exceptions.dll
+C:\Users\mathe\OneDrive\Documentos\Projetos_Pessoais\C#\GamingOrganization\GamingOrganization.Exceptions\obj\Debug\net10.0\GamingOrganization.Exceptions.pdb
+C:\Users\mathe\OneDrive\Documentos\Projetos_Pessoais\C#\GamingOrganization\GamingOrganization.Exceptions\obj\Debug\net10.0\ref\GamingOrganization.Exceptions.dll

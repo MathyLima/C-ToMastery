@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Communication/GammingOrganization.Communication.csproj" />
+  <Project Path="GamingOrganization.API/GamingOrganization.API.csproj" />
+  <Project Path="GamingOrganization.Exceptions/GamingOrganization.Exceptions.csproj" Id="e5e31f58-2654-4b56-9f82-c2e078e99caf" />
+</Solution>

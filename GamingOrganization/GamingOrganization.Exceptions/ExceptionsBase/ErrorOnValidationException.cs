@@ -1,0 +1,12 @@
+﻿using System.Net;
+
+namespace GamingOrganization.Exceptions.ExceptionsBase
+{
+    public class ErrorOnValidationException(List<string> errorMessages) : GameOrganizationExceptions(string.Empty)
+    {
+        private readonly List<string> _errors = errorMessages;
+
+        public override List<string> GetErrors() => _errors;
+        public override HttpStatusCode GetHttpStatusCode() => HttpStatusCode.BadRequest;
+    }
+}
