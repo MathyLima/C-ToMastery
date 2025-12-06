@@ -65,17 +65,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/RequestSubTaskJson"
+                "$ref": "#/components/schemas/RequestUserTaskJson"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/RequestSubTaskJson"
+                "$ref": "#/components/schemas/RequestUserTaskJson"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/RequestSubTaskJson"
+                "$ref": "#/components/schemas/RequestUserTaskJson"
               }
             }
           }
@@ -1791,6 +1791,31 @@
           "experience": {
             "type": "number",
             "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "RequestUserTaskJson": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "userId": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "subTasks": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/RequestSubTaskJson"
+            },
+            "nullable": true
           }
         },
         "additionalProperties": false

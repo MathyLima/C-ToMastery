@@ -44,7 +44,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "GammingOrganization.Communication.Requests.UserTask.RequestSubTaskJson",
+        "Type": "GammingOrganization.Communication.Requests.UserTask.RequestUserTaskJson",
         "IsRequired": true
       }
     ],

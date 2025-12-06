@@ -28,7 +28,7 @@ namespace GamingOrganization.API.Controllers
         [HttpPost]
         [ProducesResponseType(typeof(ResponseUserTaskJson),StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public IActionResult Create(RequestSubTaskJson request)
+        public IActionResult Create(RequestUserTaskJson request)
         {
             return Created();
         }

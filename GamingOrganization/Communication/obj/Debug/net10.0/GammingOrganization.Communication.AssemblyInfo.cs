@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GammingOrganization.Communication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d7cced59b4bff9e9eceafc32b897ca215a5ced4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c92964d0f6b38c2b3f46e8e82eb615e8dc6d16d")]
 [assembly: System.Reflection.AssemblyProductAttribute("GammingOrganization.Communication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GammingOrganization.Communication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

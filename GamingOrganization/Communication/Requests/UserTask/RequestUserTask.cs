@@ -1,8 +1,4 @@
-﻿
-
-using GammingOrganization.Communication.Enums;
-
-namespace GammingOrganization.Communication.Requests.UserTask
+﻿namespace GammingOrganization.Communication.Requests.UserTask
 {
     public class RequestUserTaskJson
     {
